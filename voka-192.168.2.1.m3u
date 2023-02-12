@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://my.router:81/iptv/epg/voka.xml.gz"
+#EXTM3U url-tvg="http://192.168.2.1:81/iptv/epg/voka.xml.gz"
 #EXTINF:-1 tvg-id="0d0546a2-b8da-4670-80d4-452e40c344be" group-title="Общедоступный" tvg-logo="https://resizer.voka.tv/rosing-voka-production/7821846f061fca3f5bb1_256x256.jpg", Беларусь 1 HD
 http://192.168.2.1:81/voka/channel/0d0546a2-b8da-4670-80d4-452e40c344be.m3u8
 #EXTINF:-1 tvg-id="7a975f3b-0423-46fc-bce4-0efa5366114e" group-title="Общедоступный" tvg-logo="https://resizer.voka.tv/rosing-voka-production/0f7a7f162338cf855997_256x256.jpg", ОНТ HD
